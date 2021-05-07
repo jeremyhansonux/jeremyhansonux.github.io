@@ -1,6 +1,6 @@
 body {
-    background-color: #444444;
-    color: #dddddd;
+    background-color: #394131;
+    color: #cccbbb;
     font-family: Ariel, Helvetica, sans-serif;
     margin: 10% 20%;
 }
@@ -8,7 +8,10 @@ body {
 .exp-header {
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.05)
-}
+  border-top: 1px dashed #dddddd;
+  border-bottom: 1px dashed #dddddd;
+  background-color: rgba(0,0,0, 0.02)
+  }
+
+.title-header {
+  border-bottom: 2px solid #cccbbb;  
